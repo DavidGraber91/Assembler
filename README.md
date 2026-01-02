@@ -65,14 +65,16 @@ In your `.ob` file, it will appear as:
 
 ### Compilation
 To build the project, run:
+
 make
 
-###Usage
+### Usage
 Run the assembler by providing the filenames (without the .as extension):
+
 ./p_assembler file1 file2
 
 
-##Academic Context
+## Academic Context
 This project was developed at The Open University as part of the Computer Science curriculum. It demonstrates proficiency in manual memory management in C, understanding of CPU architecture, and compiler design principles.
 
 
