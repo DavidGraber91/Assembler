@@ -1,0 +1,17 @@
+Error: in line 1: The line is more than 80 characters
+Error: in line 2: label in the define line
+Error: in line 3: missing '='
+Error: in line 5: wrong word
+Error: in line 6: illegal ','
+Error: in line 15: 3.45 is an invalid number
+Error: in line 16: The number 1000000 is out of range
+Error: in line 17: Invalid label name
+Error: in line 11: Too many arguments
+Error: in line 21: numberless
+Error: in line 21: 3.45 is an invalid number
+Error: in line 22: Operators do not match the command
+Error: in line 22: Invalid label name
+Error: in line 31: define does not exist
+Error: in line 11: Too many arguments
+Error: in line 40: wrong word
+Error: in line 5: The label does not exist
